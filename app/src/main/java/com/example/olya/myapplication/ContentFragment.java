@@ -13,9 +13,9 @@ import java.util.Random;
 
 public class ContentFragment extends Fragment {
 
-    private int color1 = 0;
-    private int color2 = 0;
-    private int color3 = 0;
+    private int color1;
+    private int color2;
+    private int color3;
     int colors[] = { Color.rgb(255, 204, 229), Color.rgb(255, 204, 255), Color.rgb(229, 204, 255),
             Color.rgb(204, 204, 255), Color.rgb(204, 229, 255), Color.rgb(204, 255, 255),
             Color.rgb(204, 255, 204), Color.rgb(229, 255, 204), Color.rgb(255, 255, 204)};
