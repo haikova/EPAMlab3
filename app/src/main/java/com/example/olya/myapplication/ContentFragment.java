@@ -11,6 +11,8 @@ import android.widget.Button;
 
 import java.util.Random;
 
+//test gihub comments
+
 public class ContentFragment extends Fragment {
 
     private int color1;
